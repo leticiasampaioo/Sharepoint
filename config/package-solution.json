@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sharepoint-desafio-client-side-solution",
+    "id": "6a0b91ea-26bd-40d7-8eb2-3a8e122abbe6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "sharepoint-desafio description"
+      },
+      "longDescription": {
+        "default": "sharepoint-desafio description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sharepoint-desafio Feature",
+        "description": "The feature that activates elements of the sharepoint-desafio solution.",
+        "id": "668b3383-70a6-430b-a90b-209d25b03f3b",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sharepoint-desafio.sppkg"
+  }
+}

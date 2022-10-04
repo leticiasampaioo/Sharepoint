@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "sharepoint-desafio",
+    "libraryId": "6a0b91ea-26bd-40d7-8eb2-3a8e122abbe6",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sharepoint-desafio",
+    "solutionShortDescription": "sharepoint-desafio description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
